@@ -1,3 +1,11 @@
+# Machine Learning
+
+[Linear Regression](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
+
+[Logistic Regression](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)
+
+[Softmax Regression](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)
+
 # Neural Network
 
 神经网络入门介绍 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Nielsen
